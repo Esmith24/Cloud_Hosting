@@ -548,11 +548,11 @@ a {
   display: none;
 }
 
-.collapsible__expanded .collapsible__chevron {
+.collapsible--expanded .collapsible__chevron {
   transform: rotate(0);
 }
 
-.collapsible__expanded .collapsible__content {
+.collapsible--expanded .collapsible__content {
   display: block;
 }
 
